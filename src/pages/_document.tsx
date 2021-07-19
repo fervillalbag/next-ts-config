@@ -47,7 +47,7 @@ export default class MyDocument extends Document {
             href="https://fonts.googleapis.com/css?family=Roboto:400,500,700"
             rel="stylesheet"
           />
-          <title>Cassini App</title>
+          <title>Initial Setup</title>
           <link rel="icon" href="/favicon.png" />
         </Head>
         <body>
