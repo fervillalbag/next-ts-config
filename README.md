@@ -1,3 +1,3 @@
-## Initial setup 
+## Initial setup
 
-Nextjs, Typescript, Styled Components, ESLint, Prettier
+Nextjs, Typescript, ESLint, Prettier
